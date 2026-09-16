@@ -1,6 +1,5 @@
 ## Hi there 👋
-# Hi, I'm fabiocoro!
-
+# Hi, I'm fabiocoro — learning Git and GitHub!
 I'm learning software development and sharing my projects here.
 
 ## What I'm learning
