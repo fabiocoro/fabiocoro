@@ -1,16 +1,30 @@
 ## Hi there 👋
+# Hi, I'm fabiocoro!
 
-<!--
-**fabiocoro/fabiocoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development and sharing my projects here.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming in Java.
+- Using Git and GitHub to track changes and collaborate.
+- Working with the Linux terminal through Ubuntu and WSL.
+- Writing documentation in Markdown.
+
+## A tool I use
+
+![Git logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
+[Learn more about Git](https://git-scm.com/)
+
+Git logo by Jason Long, licensed under CC BY 3.0.
+[Logo source and license](https://git-scm.com/community/logos).
+
+## A small Java example
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello GitHub!");
+    }
+}
+```
