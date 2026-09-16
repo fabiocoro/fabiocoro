@@ -27,3 +27,7 @@ public class Main {
     }
 }
 ```
+
+## My next goal
+
+Build a small Java project and practise collaborating through pull requests.
