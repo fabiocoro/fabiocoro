@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm fabiocoro!
+# Hi, I'm fabiocoro — learning Java!
 
 I'm learning software development and sharing my projects here.
 
